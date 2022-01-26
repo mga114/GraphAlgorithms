@@ -1,0 +1,23 @@
+{
+  "name": "GraphAlgorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mga114/GraphAlgorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mga114/GraphAlgorithms/issues"
+  },
+  "homepage": "https://github.com/mga114/GraphAlgorithms#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
